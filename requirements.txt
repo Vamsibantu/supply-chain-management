@@ -1,0 +1,26 @@
+# Core Framework
+streamlit==1.46.1
+
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+pyarrow==19.0.1
+
+# Visualization
+matplotlib==3.8.0
+altair==5.5.0
+pydeck==0.9.1
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Web Framework (if needed)
+Django==5.1.6
+asgiref==3.8.1
+
+# Utilities
+python-dateutil==2.9.0.post0
+pytz==2025.1
+certifi==2025.1.31
+click==8.1.8
+packaging==24.2
